@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 真央
 Elmas
 Wakaba
+。。。
 
 # 目录
 ```
@@ -21,4 +22,5 @@ seminar/
 ```
 
 # 备注
-本仓库是书籍《和Wakaba酱一起学Git》练习用仓库。
+本仓库是书籍《和Wakaba酱一起学Git》练习用仓库。 
+需要会freestyle
